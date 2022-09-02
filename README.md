@@ -1,5 +1,7 @@
 # used_car_pricing
 
+Most of the work and data was proprietary, so it cannot be shared. Below is the 2 part problem that was addressed by this project, the predicted prices were with in 10% range of the actual price.
+
 Part 1 – General Pricing Model
 XYZ corp provides pricing products to its clients to help them understand the value of their inventory and to set reasonable sale prices for their vehicles. The value of a vehicle is derived from numerous factors including vehicle specific properties like year, make, and model to market conditions like the time and region where a vehicle is sold. The ask for the students is to develop a pricing model that takes into account the vehicle attributes, seasonality, and regional differences. The success of this pricing model will be determined by comparing the results to real world sales and XYZ corp’s  existing proprietary algorithm.
 
